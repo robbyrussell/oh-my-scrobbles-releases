@@ -210,11 +210,57 @@ Open it from Applications, not from the disk image or your Downloads folder. A c
 
 ## First launch
 
-A setup window walks you through three things:
+Three steps, then put something on: connect Last.fm, allow Music access, and find the app in your menu bar.
 
-1. **Music access.** macOS asks whether Oh My Scrobbles may control Music. Choose **Allow**: that's how it reads the current song. If you chose **Don't Allow**, turn it on again in System Settings → Privacy & Security → Automation → Oh My Scrobbles → Music.
-2. **Connect Last.fm.** Choose **Connect…**, approve access on the Last.fm page that opens in your browser, then come back to the app. Your Last.fm password never passes through Oh My Scrobbles, and the session is kept in your Mac's Keychain.
-3. **Find the menu bar icon.** Click it any time to see what's playing. **Launch at login** is in Settings.
+<table>
+<tr>
+<td valign="top">
+
+**1. Connect Last.fm**
+
+Choose **Connect Last.fm…**. Your browser opens Last.fm so you can sign in and approve access. Oh My Scrobbles never sees your password.
+
+<img src="assets/screenshots/setup-connect.png" width="300" alt="Setup Connect step with the Connect Last.fm button and browser authorization explanation" />
+
+</td>
+<td valign="top">
+
+**Connected and ready**
+
+Return to the app. Once your account is confirmed, choose **Continue**. Your session is kept in your Mac's Keychain.
+
+<img src="assets/screenshots/setup-connected.png" width="300" alt="Setup confirming a connected Last.fm account with a green checkmark and enabled Continue button" />
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top">
+
+**2. Allow Music access**
+
+Choose **Allow** in the macOS permission dialog so the app can read the current song. It opens Music or starts a song only when you choose **Open Music** or **Play**; it never stops or skips playback.
+
+<img src="assets/screenshots/setup-music-access.png" width="300" alt="Setup Music step explaining current-song access and the macOS permission prompt" />
+
+</td>
+<td valign="top">
+
+**3. Find it in the menu bar**
+
+Pick your icon, try **Show Menu Bar Panel**, and choose whether to open the app at login. Choose **Start Scrobbling** when you're ready. Songs played during setup aren't sent.
+
+<img src="assets/screenshots/setup-menu-bar.png" width="300" alt="Setup Menu Bar step with icon choices, panel preview, open-at-login option, and Start Scrobbling button" />
+
+</td>
+</tr>
+</table>
+
+There's no Dock icon. Use the menu bar icon to check what's playing or open your history and Settings. Closing the setup window keeps the app running.
+
+If you chose **Don't Allow** for Music, enable it in **System Settings → Privacy & Security → Automation → Oh My Scrobbles → Music**, then return to setup and choose **Check Again**.
 
 ## Updates
 
