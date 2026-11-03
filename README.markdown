@@ -1,69 +1,188 @@
 # Oh My Scrobbles
 
-Oh My Scrobbles adds your listening from this Mac's Apple Music app to your Last.fm profile. It lives in the menu bar, shows what's playing, and keeps a library window with your scrobble history, loved tracks, Rewind and Friends.
+**Scrobble Apple Music to Last.fm. Find something worth playing again.**
 
-**[Download for Mac](https://github.com/robbyrussell/oh-my-scrobbles-releases/releases/latest/download/OhMyScrobbles.dmg)** · [What's new](CHANGELOG.markdown) · [Previous releases](https://github.com/robbyrussell/oh-my-scrobbles-releases/releases) · [Report a problem](https://github.com/robbyrussell/oh-my-scrobbles-releases/issues/new/choose)
+Oh My Scrobbles lives in your Mac's menu bar, adds the songs you play to Last.fm, and gives you a place to browse your history, loved tracks, and what your friends have been playing.
 
-> Oh My Scrobbles is in early beta. Updates are delivered directly for now, and we're exploring the Mac App Store for the future.
+**[Download for Mac — free early beta](https://github.com/robbyrussell/oh-my-scrobbles-releases/releases/latest/download/OhMyScrobbles.dmg)**
 
-## Screenshots
+macOS 14 Sonoma or later · A Last.fm account · No developer setup needed
 
-### The Menubar 
+[What's new](CHANGELOG.markdown) · [Previous releases](https://github.com/robbyrussell/oh-my-scrobbles-releases/releases) · [Report a problem](https://github.com/robbyrussell/oh-my-scrobbles-releases/issues/new/choose)
 
-<img width="367" height="594" alt="image" src="https://github.com/user-attachments/assets/80c49861-d0ca-4596-a467-39e5586fa87a" /> <img width="379" height="946" alt="image" src="https://github.com/user-attachments/assets/1a83f41b-6518-4497-8748-74485d07b59b" />
+## An Arc Soundhaus audio experiment
 
-### The Essentials
+I'm [Robby Russell](https://github.com/robbyrussell): a musician, a developer, and, most importantly, a fan of music. Oh My Scrobbles is an audio project experiment from **Arc Soundhaus**, built around keeping track of what we play and finding reasons to play some of it again.
 
-<img width="1086" height="1245" alt="image" src="https://github.com/user-attachments/assets/2fda00d0-a6d2-46db-8146-960ac53aac61" />
+**The core app is free. All features are free to use during early beta testing.** I'm exploring optional paid add-ons for the future, but we're taking this one step at a time. For now, try it, put on some music, and let me know what works and what needs a little attention.
 
-View your scrobble history
+Updates come directly from this repository for now. We're also exploring the Mac App Store for the future.
 
-<img width="1086" height="1245" alt="image" src="https://github.com/user-attachments/assets/8006692d-01c1-421e-abbf-550023999f74" />
+## A look inside
 
-View your loved tracks
+Start in the menu bar, then take a look through your history, Rewind, and the rest. These screenshots are from the real running app; click any image to see it at full size.
 
-### Rewind
+<table>
+<tr>
+<td valign="top">
 
-A bunch of fun tools to allow you to reconnect with your past listening habits. Find stuff you've not heard in ages!
+**A quick look at what's playing**
 
-<img width="942" height="1236" alt="image" src="https://github.com/user-attachments/assets/f2173353-dbc0-4ef6-97b7-5a9de351b20e" />
+Check the current song and recent listening without opening the library window.
 
-<img width="1080" height="734" alt="image" src="https://github.com/user-attachments/assets/3774681a-67c9-45ee-8cbb-64eed26680df" />
+<img src="https://github.com/user-attachments/assets/80c49861-d0ca-4596-a467-39e5586fa87a" width="230" alt="Compact menu bar panel with the current Flaming Lips song and recent listening" />
 
-<img width="936" height="1017" alt="image" src="https://github.com/user-attachments/assets/f818fe25-86ff-4a11-9e97-0a19d489a9d2" />
+</td>
+<td valign="top">
 
-### Settings / Preferences
+**Your listening, with a little context**
 
-<img width="912" height="1128" alt="image" src="https://github.com/user-attachments/assets/88614497-b027-41f5-9cfa-1246e9ab8e84" />
+Browse your scrobbles, search downloaded history, and see what was on repeat that week.
 
-Yes, it kind of works with Apple Radio, too!
+<img src="https://github.com/user-attachments/assets/2fda00d0-a6d2-46db-8146-960ac53aac61" width="350" alt="Listening History window with a weekly summary, daily scrobble chart, and recent tracks" />
 
-<img width="913" height="734" alt="image" src="https://github.com/user-attachments/assets/67ed93ae-11b1-485b-ab5a-2cdf7f885e99" />
+</td>
+</tr>
+</table>
 
-Sync! Yes, you can sync all of your Last.fm scrobbling history to your local computer. This speeds up our tool and gives you some fun access options.
+### Now playing & loved tracks
 
-<img width="1003" height="861" alt="image" src="https://github.com/user-attachments/assets/bb0a7d86-cc11-49df-89cd-259b33035264" />
+<table>
+<tr>
+<td valign="top">
 
-..did we mention Themes? Robby likes a good theme. 
+**More room for the artwork**
 
-<img width="1003" height="861" alt="image" src="https://github.com/user-attachments/assets/cc5380e7-1531-4473-9836-f0a923bf0796" />
+Prefer the cover up front? Switch the menu bar panel to the large-artwork layout.
 
-Cache controls...
+<img src="https://github.com/user-attachments/assets/1a83f41b-6518-4497-8748-74485d07b59b" width="220" alt="Menu bar panel using large album artwork above the current song and recent tracks" />
 
-### Artists / Albums
+</td>
+<td valign="top">
 
-Browse albums and see some of your own stats, where applicable.
+**The ones you loved**
 
-<img width="1086" height="1245" alt="image" src="https://github.com/user-attachments/assets/66d8d892-5b1b-4249-9854-88234c2deb6c" />
+Browse the tracks you've loved on Last.fm, and mark a few more when the mood takes you.
 
-<img width="1086" height="1245" alt="image" src="https://github.com/user-attachments/assets/a4e8d7b2-f283-4850-9a3c-21439be52605" />
+<img src="https://github.com/user-attachments/assets/8006692d-01c1-421e-abbf-550023999f74" width="350" alt="Loved Tracks window showing tracks marked as loved on Last.fm" />
 
-### Friends
+</td>
+</tr>
+</table>
 
-Keep up with what your friends (who you're following on Last.fm) last scrobbled.
 
-<img width="1086" height="1245" alt="image" src="https://github.com/user-attachments/assets/52a304c5-55de-45f9-8aac-54b7219d2641" />
+### Rewind: what was in rotation?
 
+Some records had a whole week to themselves. Others turn up again years later. Rewind gives you a few ways back into your recorded listening.
+
+**In Rotation** — Pick a week, month, or year and see what you were scrobbling then.
+
+<img src="https://github.com/user-attachments/assets/f2173353-dbc0-4ef6-97b7-5a9de351b20e" width="420" alt="Rewind In Rotation showing albums and top songs from a week in September 2010" />
+
+**Deep Cuts** — Find music that had a big week in your older history and no matching scrobbles in the recent period checked. Something worth another go?
+
+<img src="https://github.com/user-attachments/assets/3774681a-67c9-45ee-8cbb-64eed26680df" width="520" alt="Rewind Deep Cuts showing albums selected from older listening history" />
+
+**Top 5** — See your most-scrobbled albums, artists, or songs for a chosen period. A count of recorded plays; you get the final say on favorites.
+
+<img src="https://github.com/user-attachments/assets/f818fe25-86ff-4a11-9e97-0a19d489a9d2" width="420" alt="Rewind Top 5 with controls for ranking albums, artists, or songs by listening period" />
+
+
+**Full Circle** — See artists and albums that returned to your rotation after a year or more of few recorded plays. Timelines show the earlier run, the quiet stretch, and the comeback in your downloaded history.
+
+<img src="assets/screenshots/rewind-full-circle.png" width="520" alt="Rewind Full Circle showing album comebacks with timelines for earlier scrobbles, quiet months, and returning plays" />
+
+
+### Artists & albums: follow your curiosity
+
+Start with a name you know, browse the albums, and see where your own listening fits in. Links to Apple Music and Last.fm give you somewhere to go next.
+
+<table>
+<tr>
+<td valign="top">
+
+**Artists**
+
+Browse albums and see your scrobbles alongside what's popular across Last.fm.
+
+<img src="https://github.com/user-attachments/assets/66d8d892-5b1b-4249-9854-88234c2deb6c" width="340" alt="Mogwai artist page with albums, popular songs on Last.fm, and personal listening counts" />
+
+</td>
+<td valign="top">
+
+**Albums**
+
+Look through a track list and your recorded scrobbles of its songs.
+
+<img src="https://github.com/user-attachments/assets/a4e8d7b2-f283-4850-9a3c-21439be52605" width="340" alt="Album detail page with its track list and listening counts from Last.fm" />
+
+</td>
+</tr>
+</table>
+
+
+### Friends: what are they playing?
+
+See current and recent listening from the people you follow on Last.fm. A familiar name, an unfamiliar record, and perhaps something to try next.
+
+<img src="https://github.com/user-attachments/assets/52a304c5-55de-45f9-8aac-54b7219d2641" width="460" alt="Friends window listing current listening and recently played songs from Last.fm friends" />
+
+
+### Desktop widgets
+
+A little music on your desktop: the current song, your last three scrobbles, or this week's most-scrobbled artists. Choose a compact album sleeve or a wider Now Playing view.
+
+<img src="assets/screenshots/desktop-widgets.png" width="600" alt="Desktop widget gallery showing compact and wide Now Playing layouts, Recent Scrobbles, and Top Artists This Week" />
+
+Control-click your desktop, choose **Edit Widgets**, then search for **Oh My Scrobbles**. Keep the app running to refresh them; macOS controls when widgets update.
+
+### Make it yours: settings, history sync & themes
+
+<table>
+<tr>
+<td valign="top">
+
+**Scrobbling & Apple Radio**
+
+Manage your Last.fm connection and scrobbling. There's an optional Apple Radio mode for tracks without a reported length; it can count partial plays.
+
+<img src="https://github.com/user-attachments/assets/88614497-b027-41f5-9cfa-1246e9ab8e84" width="340" alt="General settings with Last.fm account, scrobbling, and optional Apple Radio controls" />
+
+</td>
+<td valign="top">
+
+**History sync**
+
+Download your Last.fm history to this Mac for local browsing, search, and Rewind. Check progress and keep it up to date here.
+
+<img src="https://github.com/user-attachments/assets/67ed93ae-11b1-485b-ab5a-2cdf7f885e99" width="340" alt="Sync Tools settings showing downloaded history, sync status, and refresh controls" />
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top">
+
+**Yes, there are themes**
+
+I like a good theme. Choose your colors, menu bar icon, and how much room the album artwork gets.
+
+<img src="https://github.com/user-attachments/assets/bb0a7d86-cc11-49df-89cd-259b33035264" width="340" alt="Appearance settings showing a teal theme, artwork layout choices, and menu bar icons" />
+
+</td>
+<td valign="top">
+
+**Storage**
+
+See what's stored locally and manage downloaded history and cached images.
+
+<img src="https://github.com/user-attachments/assets/cc5380e7-1531-4473-9836-f0a923bf0796" width="340" alt="Storage settings with local history and image cache controls" />
+
+</td>
+</tr>
+</table>
 
 
 ## What it does
@@ -78,7 +197,7 @@ It works with the Music app on this Mac. It doesn't scrobble from other players,
 ## Requirements
 
 - macOS 14 Sonoma or later.
-- Tested on Apple silicon Macs. The app is universal, but it hasn't been tried on an Intel Mac yet.
+- Universal app, tested on Apple silicon Macs and an Intel Mac running macOS Sequoia.
 - A Last.fm account. You don't need Xcode or a Last.fm API key of your own.
 
 ## Install
@@ -126,4 +245,4 @@ Oh My Scrobbles talks to Last.fm to scrobble and to show your history, to MusicB
 
 ## About
 
-Oh My Scrobbles is an independent project. It is not made, endorsed or sponsored by Apple or Last.fm. Apple, Apple Music, Mac and macOS are trademarks of Apple Inc. Last.fm and AudioScrobbler are trademarks of their respective owner. The app bundles [Sparkle](https://sparkle-project.org) for updates; its license is in the app's About window.
+Oh My Scrobbles is an independent Arc Soundhaus audio project by Robby Russell. It is not made, endorsed or sponsored by Apple or Last.fm. Apple, Apple Music, Mac and macOS are trademarks of Apple Inc. Last.fm and AudioScrobbler are trademarks of their respective owner. The app bundles [Sparkle](https://sparkle-project.org) for updates; its license is in the app's About window.
