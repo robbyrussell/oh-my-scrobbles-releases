@@ -12,7 +12,7 @@ macOS 14 Sonoma or later · A Last.fm account · No developer setup needed
 
 ## An Arc Soundhaus audio experiment
 
-I'm [Robby Russell](https://github.com/robbyrussell): a musician, a developer, and, most importantly, a fan of music and Last.fm. Oh My Scrobbles is an audio project experiment from **Arc Soundhaus**, built around keeping track of what we play and finding reasons to play some of it again.
+I'm [Robby Russell](https://github.com/robbyrussell): a musician, a developer, and, most importantly, a fan of music. Oh My Scrobbles is an audio project experiment from **Arc Soundhaus**, built around keeping track of what we play and finding reasons to play some of it again.
 
 **The core app is free. All features are free to use during early beta testing.** I'm exploring optional paid add-ons for the future, but we're taking this one step at a time. For now, try it, put on some music, and let me know what works and what needs a little attention.
 
