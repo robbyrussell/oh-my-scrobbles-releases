@@ -1,0 +1,29 @@
+name: Suggest something
+description: An idea for Oh My Scrobbles, or something you'd like it to do differently.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas are welcome. Oh My Scrobbles is a small beta, so not every idea will make it in.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: Describe the idea in your own words.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What would it help with?
+      description: How you listen, or what you were trying to do when you thought of it.
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Oh My Scrobbles version (optional)
+      placeholder: Version 0.1.0 (20261030.01)
+    validations:
+      required: false
