@@ -184,7 +184,7 @@ It works with the Music app on this Mac. It doesn't scrobble from other players,
 ## Requirements
 
 - macOS 14 Sonoma or later.
-- Universal app, tested on Apple silicon and Intel Macs.
+- Universal app, tested on Apple silicon Macs and an Intel Mac running macOS Sequoia.
 - A Last.fm account. You don't need Xcode or a Last.fm API key of your own.
 
 ## Install
