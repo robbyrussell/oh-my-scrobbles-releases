@@ -4,6 +4,10 @@ What changed in each public version of Oh My Scrobbles, newest first. Every vers
 
 <!-- publish.sh adds new versions below this line, newest first. -->
 
+## 0.2.1 (build 20261102.05) · 2026-11-03
+
+- The app name at the top of the menu bar panel is quieter now, so the album artwork stands out.
+
 ## 0.2.0 (build 20261102.04) · 2026-11-03
 
 The first public beta.
