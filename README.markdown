@@ -123,6 +123,14 @@ See current and recent listening from the people you follow on Last.fm. A famili
 <img src="https://github.com/user-attachments/assets/52a304c5-55de-45f9-8aac-54b7219d2641" width="460" alt="Friends window listing current listening and recently played songs from Last.fm friends" />
 
 
+### Desktop widgets
+
+A little music on your desktop: the current song, your last three scrobbles, or this week's most-scrobbled artists. Choose a compact album sleeve or a wider Now Playing view.
+
+<img src="assets/screenshots/desktop-widgets.png" width="600" alt="Desktop widget gallery showing compact and wide Now Playing layouts, Recent Scrobbles, and Top Artists This Week" />
+
+Control-click your desktop, choose **Edit Widgets**, then search for **Oh My Scrobbles**. Keep the app running to refresh them; macOS controls when widgets update.
+
 ### Make it yours: settings, history sync & themes
 
 <table>
