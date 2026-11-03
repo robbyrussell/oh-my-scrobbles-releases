@@ -88,6 +88,11 @@ Some records had a whole week to themselves. Others turn up again years later. R
 <img src="https://github.com/user-attachments/assets/f818fe25-86ff-4a11-9e97-0a19d489a9d2" width="420" alt="Rewind Top 5 with controls for ranking albums, artists, or songs by listening period" />
 
 
+**Full Circle** — See artists and albums that returned to your rotation after a year or more of few recorded plays. Timelines show the earlier run, the quiet stretch, and the comeback in your downloaded history.
+
+<img src="assets/screenshots/rewind-full-circle.png" width="520" alt="Rewind Full Circle showing album comebacks with timelines for earlier scrobbles, quiet months, and returning plays" />
+
+
 ### Artists & albums: follow your curiosity
 
 Start with a name you know, browse the albums, and see where your own listening fits in. Links to Apple Music and Last.fm give you somewhere to go next.
