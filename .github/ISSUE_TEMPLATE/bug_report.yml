@@ -1,0 +1,59 @@
+name: Report a problem
+description: Something in Oh My Scrobbles isn't working the way you expected.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. Issues here are public, so please don't paste your Last.fm password, session details, or anything from your listening history you'd rather keep private.
+  - type: input
+    id: version
+    attributes:
+      label: Oh My Scrobbles version and build
+      description: Open About Oh My Scrobbles and copy the line under the name.
+      placeholder: Version 0.1.0 (20261030.01)
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      description: From the Apple menu → About This Mac.
+      placeholder: macOS 15.1
+    validations:
+      required: true
+  - type: dropdown
+    id: mac
+    attributes:
+      label: Mac
+      options:
+        - Apple silicon (M1 or later)
+        - Intel
+        - Not sure
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you see, and what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to make it happen again
+      description: If you can, list what you did just before it happened.
+      placeholder: |
+        1. Played an album in Music
+        2. Opened the menu bar panel
+        3. ...
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: A screenshot can help. Check it for account names or listening you'd rather not share before attaching it.
+    validations:
+      required: false
