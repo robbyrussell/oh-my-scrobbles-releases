@@ -93,6 +93,16 @@ Some records had a whole week to themselves. Others turn up again years later. R
 <img src="assets/screenshots/rewind-full-circle.png" width="520" alt="Rewind Full Circle showing album comebacks with timelines for earlier scrobbles, quiet months, and returning plays" />
 
 
+### Ask your listening history a question
+
+A date, a question, and the songs around it. The optional **local MCP connection** lets Claude Desktop and compatible ChatGPT/Codex clients search and explore the listening history downloaded to your Mac.
+
+Here, I asked Claude what I'd scrobbled just before and after creating my GitHub account. It found the tracks on either side, with the recorded times and a note about what those times can actually tell us.
+
+<img src="assets/screenshots/listening-history-conversation.png" width="600" alt="Claude using Oh My Scrobbles to find the port-royal tracks scrobbled just before and after Robby created his GitHub account" />
+
+Access is off until you enable it in **Settings → Sync Tools → Local AI tools**. The helper runs locally and is read-only; the AI service you connect receives the history it reads. Local MCP support depends on your chat app and version.
+
 ### Artists & albums: follow your curiosity
 
 Start with a name you know, browse the albums, and see where your own listening fits in. Links to Apple Music and Last.fm give you somewhere to go next.
