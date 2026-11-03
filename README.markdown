@@ -1,6 +1,6 @@
 # Oh My Scrobbles
 
-Oh My Scrobbles adds your listening from this Mac's Music app to your Last.fm profile. It lives in the menu bar, shows what's playing, and keeps a library window with your scrobble history, loved tracks, Rewind and Friends.
+Oh My Scrobbles adds your listening from this Mac's Apple Music app to your Last.fm profile. It lives in the menu bar, shows what's playing, and keeps a library window with your scrobble history, loved tracks, Rewind and Friends.
 
 **[Download for Mac](https://github.com/robbyrussell/oh-my-scrobbles-releases/releases/latest/download/OhMyScrobbles.dmg)** · [What's new](CHANGELOG.markdown) · [Previous releases](https://github.com/robbyrussell/oh-my-scrobbles-releases/releases) · [Report a problem](https://github.com/robbyrussell/oh-my-scrobbles-releases/issues/new/choose)
 
@@ -8,24 +8,63 @@ Oh My Scrobbles adds your listening from this Mac's Music app to your Last.fm pr
 
 ## Screenshots
 
-<!--
-Screenshot slots. Each image must be a capture of the real, running app, checked for private
-details (account names, friends, avatars, listening you'd rather not share) before it is added.
-Put the PNGs in assets/screenshots/ with these names, then remove the comment markers around
-each line. Keep the alt text and captions; they describe what the image shows for people who
-can't see it.
+### The Menubar 
 
-![The Oh My Scrobbles menu bar panel showing the song playing in Music, its progress and the Last.fm connection](assets/screenshots/menu-bar-panel.png)
-*The menu bar panel: what's playing in Music, and whether it's being scrobbled.*
+<img width="367" height="594" alt="image" src="https://github.com/user-attachments/assets/80c49861-d0ca-4596-a467-39e5586fa87a" /> <img width="379" height="946" alt="image" src="https://github.com/user-attachments/assets/1a83f41b-6518-4497-8748-74485d07b59b" />
 
-![The Listening Library window showing recent scrobbles in History](assets/screenshots/library-history.png)
-*History in the library window: your recent scrobbles from Last.fm.*
+### The Essentials
 
-![Settings, General, showing the Last.fm account, Scrobbling and Updates sections](assets/screenshots/settings-updates.png)
-*Settings: your Last.fm connection, scrobbling, and how often to check for updates.*
--->
+<img width="1086" height="1245" alt="image" src="https://github.com/user-attachments/assets/2fda00d0-a6d2-46db-8146-960ac53aac61" />
 
-Screenshots of the running app are on their way.
+View your scrobble history
+
+<img width="1086" height="1245" alt="image" src="https://github.com/user-attachments/assets/8006692d-01c1-421e-abbf-550023999f74" />
+
+View your loved tracks
+
+### Rewind
+
+A bunch of fun tools to allow you to reconnect with your past listening habits. Find stuff you've not heard in ages!
+
+<img width="942" height="1236" alt="image" src="https://github.com/user-attachments/assets/f2173353-dbc0-4ef6-97b7-5a9de351b20e" />
+
+<img width="1080" height="734" alt="image" src="https://github.com/user-attachments/assets/3774681a-67c9-45ee-8cbb-64eed26680df" />
+
+<img width="936" height="1017" alt="image" src="https://github.com/user-attachments/assets/f818fe25-86ff-4a11-9e97-0a19d489a9d2" />
+
+### Settings / Preferences
+
+<img width="912" height="1128" alt="image" src="https://github.com/user-attachments/assets/88614497-b027-41f5-9cfa-1246e9ab8e84" />
+
+Yes, it kind of works with Apple Radio, too!
+
+<img width="913" height="734" alt="image" src="https://github.com/user-attachments/assets/67ed93ae-11b1-485b-ab5a-2cdf7f885e99" />
+
+Sync! Yes, you can sync all of your Last.fm scrobbling history to your local computer. This speeds up our tool and gives you some fun access options.
+
+<img width="1003" height="861" alt="image" src="https://github.com/user-attachments/assets/bb0a7d86-cc11-49df-89cd-259b33035264" />
+
+..did we mention Themes? Robby likes a good theme. 
+
+<img width="1003" height="861" alt="image" src="https://github.com/user-attachments/assets/cc5380e7-1531-4473-9836-f0a923bf0796" />
+
+Cache controls...
+
+### Artists / Albums
+
+Browse albums and see some of your own stats, where applicable.
+
+<img width="1086" height="1245" alt="image" src="https://github.com/user-attachments/assets/66d8d892-5b1b-4249-9854-88234c2deb6c" />
+
+<img width="1086" height="1245" alt="image" src="https://github.com/user-attachments/assets/a4e8d7b2-f283-4850-9a3c-21439be52605" />
+
+### Friends
+
+Keep up with what your friends (who you're following on Last.fm) last scrobbled.
+
+<img width="1086" height="1245" alt="image" src="https://github.com/user-attachments/assets/52a304c5-55de-45f9-8aac-54b7219d2641" />
+
+
 
 ## What it does
 
