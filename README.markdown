@@ -1,22 +1,28 @@
 # Oh My Scrobbles
 
-**Scrobble Apple Music to Last.fm. Find something worth playing again.**
+**Keep the scrobbles coming. There’s music to get back to.**
 
-Oh My Scrobbles lives in your Mac's menu bar, adds the songs you play to Last.fm, and gives you a place to browse your history, loved tracks, and what your friends have been playing.
+Oh My Scrobbles is a free Mac app for scrobbling Apple Music to Last.fm and finding your way back through your listening history.
+
+Maybe you’ve been faithfully scrobbling for years. Maybe you drifted away and miss having a record of what you played. Either way, pull up a chair. There are probably a few albums in there that deserve another afternoon.
+
+Keep track of what’s playing now, browse what was in rotation then, and follow your curiosity through old scrobbles, loved tracks, and what your friends have been playing. Rewind can take you back to a particular week or help you find something that fell out of rotation.
+
+You bring the music. We’ll help you remember where you left off… and keep a record of what comes next.
 
 **[Download for Mac — free early beta](https://github.com/robbyrussell/oh-my-scrobbles-releases/releases/latest/download/OhMyScrobbles.dmg)**
 
-macOS 14 Sonoma or later · A Last.fm account · No developer setup needed
+macOS 14 Sonoma or later · A Last.fm account · All features free during early beta
 
 [What's new](CHANGELOG.markdown) · [Previous releases](https://github.com/robbyrussell/oh-my-scrobbles-releases/releases) · [Report a problem](https://github.com/robbyrussell/oh-my-scrobbles-releases/issues/new/choose)
 
-## An Arc Soundhaus audio experiment
+### Spotify listeners are welcome, too
 
-I'm [Robby Russell](https://github.com/robbyrussell): a musician, a developer, and, most importantly, a fan of music. Oh My Scrobbles is an audio project experiment from **Arc Soundhaus**, built around keeping track of what we play and finding reasons to play some of it again.
+Spotify already has a [direct connection to Last.fm](https://community.spotify.com/forum/en/kb/articles/881-how-can-i-connect-spotify-to-last-fm) for scrobbling. Keep that doing its thing.
 
-**The core app is free. All features are free to use during early beta testing.** I'm exploring optional paid add-ons for the future, but we're taking this one step at a time. For now, try it, put on some music, and let me know what works and what needs a little attention.
+If you’re on a Mac, Oh My Scrobbles gives you another way to explore that history: Rewind, artist and album views, loved tracks, and questions for your listening archive. It works with the scrobbles in your Last.fm account, including those recorded through Spotify.
 
-Updates come directly from this repository for now. We're also exploring the Mac App Store for the future.
+And whenever you put something on in Apple Music, it can scrobble that listening from your Mac, too.
 
 ## A look inside
 
@@ -194,6 +200,16 @@ See what's stored locally and manage downloaded history and cached images.
 </tr>
 </table>
 
+
+## An Arc Soundhaus audio experiment
+
+I’m [Robby Russell](https://github.com/robbyrussell): a musician, a developer, and, most importantly, a fan of music. I’ve stayed loyal to scrobbling, and I like finding new reasons to spend time with all that listening history.
+
+Oh My Scrobbles is an audio project experiment from **Arc Soundhaus**. The core app is free, and all features are free to use during early beta testing. I’m exploring optional paid add-ons for the future, but we’re taking this one step at a time.
+
+For now, put on some music, give it a try, and tell me what works and what needs attention.
+
+Updates come directly from this repository. We’re also exploring the Mac App Store for the future.
 
 ## What it does
 
