@@ -20,7 +20,7 @@ Updates come directly from this repository for now. We're also exploring the Mac
 
 ## A look inside
 
-These are screenshots of the real running app. Start with the menu bar panel and listening history; expand the sections below for a closer look. Click an image to see it at full size.
+Start in the menu bar, then take a look through your history, Rewind, and the rest. These screenshots are from the real running app; click any image to see it at full size.
 
 <table>
 <tr>
@@ -45,8 +45,7 @@ Browse your scrobbles, search downloaded history, and see what was on repeat tha
 </tr>
 </table>
 
-<details>
-<summary><strong>Now playing & loved tracks</strong></summary>
+### Now playing & loved tracks
 
 <table>
 <tr>
@@ -71,10 +70,8 @@ Browse the tracks you've loved on Last.fm, and mark a few more when the mood tak
 </tr>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Rewind: what was in rotation?</strong></summary>
+### Rewind: what was in rotation?
 
 Some records had a whole week to themselves. Others turn up again years later. Rewind gives you a few ways back into your recorded listening.
 
@@ -90,10 +87,8 @@ Some records had a whole week to themselves. Others turn up again years later. R
 
 <img src="https://github.com/user-attachments/assets/f818fe25-86ff-4a11-9e97-0a19d489a9d2" width="420" alt="Rewind Top 5 with controls for ranking albums, artists, or songs by listening period" />
 
-</details>
 
-<details>
-<summary><strong>Artists & albums: follow your curiosity</strong></summary>
+### Artists & albums: follow your curiosity
 
 Start with a name you know, browse the albums, and see where your own listening fits in. Links to Apple Music and Last.fm give you somewhere to go next.
 
@@ -120,19 +115,15 @@ Look through a track list and your recorded scrobbles of its songs.
 </tr>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Friends: what are they playing?</strong></summary>
+### Friends: what are they playing?
 
 See current and recent listening from the people you follow on Last.fm. A familiar name, an unfamiliar record, and perhaps something to try next.
 
 <img src="https://github.com/user-attachments/assets/52a304c5-55de-45f9-8aac-54b7219d2641" width="460" alt="Friends window listing current listening and recently played songs from Last.fm friends" />
 
-</details>
 
-<details>
-<summary><strong>Make it yours: settings, history sync & themes</strong></summary>
+### Make it yours: settings, history sync & themes
 
 <table>
 <tr>
@@ -180,7 +171,6 @@ See what's stored locally and manage downloaded history and cached images.
 </tr>
 </table>
 
-</details>
 
 ## What it does
 
