@@ -4,6 +4,14 @@ What changed in each public version of Oh My Scrobbles, newest first. Every vers
 
 <!-- publish.sh adds new versions below this line, newest first. -->
 
+## 0.2.2 (build 20261104.01) · 2026-11-04
+
+- New: Show in Dock, in Settings → General, adds Oh My Scrobbles to the Dock and Command-Tab. Clicking its Dock icon opens the main window, even after you closed or minimized it.
+- VoiceOver, Voice Control and keyboard: page and section titles are headings, buttons and links are named by the text you see, and VoiceOver now announces changes to the period, setup steps, playback and loved tracks. The History week chart, record panel, menu panel and Full Circle timelines now work with assistive technologies and the keyboard.
+- Secondary text is easier to read on every color theme.
+- Press Command-F in History or Loved Tracks to search.
+- In the record panel, press Option-Left or Option-Right Arrow to flip the sleeve, or swipe sideways. Plain Left and Right Arrow no longer flip it.
+
 ## 0.2.1 (build 20261102.05) · 2026-11-03
 
 - The app name at the top of the menu bar panel is quieter now, so the album artwork stands out.
