@@ -4,6 +4,13 @@ What changed in each public version of Oh My Scrobbles, newest first. Every vers
 
 <!-- publish.sh adds new versions below this line, newest first. -->
 
+## 0.2.3 (build 20261106.01) · 2026-11-07
+
+- Click an album name in History or Loved Tracks to open its album details.
+- Hover a song in Loved Tracks to see how many times you have scrobbled it.
+- Recent listening now shows today's scrobble count.
+- Rewind has a button that takes you back to the latest period in one step.
+
 ## 0.2.2 (build 20261104.01) · 2026-11-04
 
 - New: Show in Dock, in Settings → General, adds Oh My Scrobbles to the Dock and Command-Tab. Clicking its Dock icon opens the main window, even after you closed or minimized it.
