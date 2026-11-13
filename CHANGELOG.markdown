@@ -4,6 +4,12 @@ What changed in each public version of Oh My Scrobbles, newest first. Every vers
 
 <!-- publish.sh adds new versions below this line, newest first. -->
 
+## 0.2.4 (build 20261109.01) · 2026-11-12
+
+### Added
+- Album Crates: flip through your top 200 albums like a record shop, 25 to a crate. Arrange them by artist or by the date you first scrobbled them. Click a cover to lift it out and see your play count, its rank and its songs. Turn the card over without anything starting to play.
+- Album Crates open once Last.fm ranks 500 albums for your account. Until then, the page shows how many more you need.
+
 ## 0.2.3 (build 20261106.01) · 2026-11-07
 
 - Click an album name in History or Loved Tracks to open its album details.
